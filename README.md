@@ -1,2 +1,1 @@
-# find-happy-number
-Find Happy Number
+# Mega Project List Solutions ( Javascript )
